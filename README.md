@@ -1,17 +1,9 @@
 # camins
 
-A new Flutter project.
+En este primer proyecto con Flutter he empezado muy bien, con una guía clara del PDF que nos compartiste como punto de partida. Ha sido una buena forma de comenzar para entender el flujo de los componentes y la arquitectura de la aplicación.
 
-## Getting Started
+Primero fui creando nuevos archivos y organizando los elementos con sus componentes correspondientes. Gracias a la ayuda de la bombilla, también me ofreció una buena guía. En algunos casos tuve que consultar el proyecto del recetario como ejemplo para entender cómo estaba construido el Stack o algunos widgets.
 
-This project is a starting point for a Flutter application.
+En alguna ocasión, cuando necesitaba resolver un problema, recurrí a la IA, aunque fue de forma puntual. Por ejemplo, en los widgets de stat_item, solo un icono tenía el color naranja y no sabía cómo resolverlo.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+En general, ha sido un buen aprendizaje para desarrollar esta primera app y entender la arquitectura visual de Flutter.
